@@ -87,6 +87,6 @@ ___
 <!-- Task List -->
 
 * [X] Task 1
-* [] Task 2
+* [ ] Task 2
 * [X] Task 3
-* [] Task 4
+* [ ] Task 4
